@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "SVV Petty Cash",
+  "short_name": "Petty Cash",
+  "description": "Petty cash register for Suba Valli Vilas Jewellery cashiers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#7a1f2b",
+  "theme_color": "#7a1f2b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

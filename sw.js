@@ -1,6 +1,6 @@
 /* Petty Cash app shell — keeps the shell (icon, loading and offline screens) available.
    Entries are never stored here; they go straight to the Google Sheet. */
-var CACHE = 'svv-petty-cash-shell-v1';
+var CACHE = 'svv-petty-cash-shell-v2';
 var FILES = ['./', 'index.html', 'config.js', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'maskable-512.png', 'apple-touch-icon.png', 'favicon-32.png'];
 

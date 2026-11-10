@@ -3,4 +3,4 @@
   Paste the Google Apps Script "Web app URL" between the quotes below.
   It looks like: https://script.google.com/macros/s/AKfy...long-code.../exec
 */
-window.PETTY_CASH_APP_URL = 'PASTE_YOUR_WEB_APP_URL_HERE';
+window.PETTY_CASH_APP_URL = 'https://script.google.com/macros/s/AKfycbx2TQXl-ZqUqmfqYF35lDl7wvB-1fr3-bIVM0IjNlBJ8iZvM_DC53E5PAdssRxgFA/exec';
